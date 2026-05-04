@@ -28,9 +28,9 @@
       "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeZoo-v1.0.0/pack-businessTypeZoo.zip"
     },
     "businessTypeRental": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeRental-v1.0.0/pack-businessTypeRental.zip"
+      "version": "1.0.1",
+      "minAppVersion": "2.3.2",
+      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeRental-v1.0.1/pack-businessTypeRental.zip"
     },
     "businessTypeIdolAgency": {
       "version": "1.0.0",
