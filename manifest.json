@@ -29,7 +29,7 @@
     },
     "businessTypeRental": {
       "version": "1.0.1",
-      "minAppVersion": "2.3.2",
+      "minAppVersion": "2.0.0",
       "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeRental-v1.0.1/pack-businessTypeRental.zip"
     },
     "businessTypeIdolAgency": {
