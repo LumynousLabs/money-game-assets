@@ -5,112 +5,112 @@
     "businessTypeShop": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeShop-v1.0.0/pack-businessTypeShop.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.0.zip"
     },
     "businessTypeAquarium": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeAquarium-v1.0.0/pack-businessTypeAquarium.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.0.zip"
     },
     "businessTypeConstruction": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeConstruction-v1.0.0/pack-businessTypeConstruction.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeConstruction-v1.0.0.zip"
     },
     "businessTypeTaxi": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeTaxi-v1.0.0/pack-businessTypeTaxi.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.0.zip"
     },
     "businessTypeZoo": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeZoo-v1.0.0/pack-businessTypeZoo.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.0.zip"
     },
     "businessTypeRental": {
       "version": "1.0.1",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeRental-v1.0.1/pack-businessTypeRental.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.1.zip"
     },
     "businessTypeIdolAgency": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeIdolAgency-v1.0.0/pack-businessTypeIdolAgency.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.0.zip"
     },
     "businessTypeBiotech": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeBiotech-v1.0.0/pack-businessTypeBiotech.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeBiotech-v1.0.0.zip"
     },
     "businessTypeArtStudio": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeArtStudio-v1.0.0/pack-businessTypeArtStudio.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeArtStudio-v1.0.0.zip"
     },
     "businessTypeShared": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/businessTypeShared-v1.0.0/pack-businessTypeShared.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.0.zip"
     },
     "earningTab": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/earningTab-v1.0.0/pack-earningTab.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-earningTab-v1.0.0.zip"
     },
     "forbes": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/forbes-v1.0.0/pack-forbes.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-forbes-v1.0.0.zip"
     },
     "music": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/music-v1.0.0/pack-music.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-music-v1.0.0.zip"
     },
     "propertiesResidential": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/propertiesResidential-v1.0.0/pack-propertiesResidential.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesResidential-v1.0.0.zip"
     },
     "propertiesLuxury": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/propertiesLuxury-v1.0.0/pack-propertiesLuxury.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesLuxury-v1.0.0.zip"
     },
     "itemTypeCars": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeCars-v1.0.0/pack-itemTypeCars.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCars-v1.0.0.zip"
     },
     "itemTypeAirplanes": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeAirplanes-v1.0.0/pack-itemTypeAirplanes.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeAirplanes-v1.0.0.zip"
     },
     "itemTypeYachts": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeYachts-v1.0.0/pack-itemTypeYachts.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeYachts-v1.0.0.zip"
     },
     "itemTypePaintings": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypePaintings-v1.0.0/pack-itemTypePaintings.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypePaintings-v1.0.0.zip"
     },
     "itemTypeStamps": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeStamps-v1.0.0/pack-itemTypeStamps.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeStamps-v1.0.0.zip"
     },
     "itemTypeCoins": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeCoins-v1.0.0/pack-itemTypeCoins.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCoins-v1.0.0.zip"
     },
     "itemTypeWatches": {
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
-      "url": "https://github.com/LumynousLabs/money-game-assets/releases/download/itemTypeWatches-v1.0.0/pack-itemTypeWatches.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.0.zip"
     }
   }
 }
