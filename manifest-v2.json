@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 2,
+  "packs": {
+    "businessTypeShop": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeAquarium": {
+      "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeConstruction": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeConstruction-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeTaxi": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeZoo": {
+      "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeRental": {
+      "versions": [
+        {
+          "version": "1.0.3",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.3.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeIdolAgency": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeBiotech": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeBiotech-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeArtStudio": {
+      "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeArtStudio-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeShared": {
+      "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "earningTab": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-earningTab-v1.0.0.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "forbes": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-forbes-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-forbes-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "music": {
+      "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-music-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "propertiesResidential": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesResidential-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesResidential-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "propertiesLuxury": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesLuxury-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesLuxury-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeCars": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCars-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCars-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeAirplanes": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeAirplanes-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeAirplanes-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeYachts": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeYachts-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeYachts-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypePaintings": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypePaintings-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypePaintings-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeStamps": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeStamps-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeStamps-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeCoins": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCoins-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeCoins-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "itemTypeWatches": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "minAppVersion": "3.2.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.2.zip",
+          "publishedAt": "2026-05-11"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.1.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.1.zip",
+          "publishedAt": "2026-05-11"
+        }
+      ]
+    }
+  }
+}
