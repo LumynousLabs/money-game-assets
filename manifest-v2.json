@@ -30,6 +30,12 @@
     "businessTypeConstruction": {
       "versions": [
         {
+          "version": "1.0.1",
+          "minAppVersion": "3.3.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeConstruction-v1.0.1.zip",
+          "publishedAt": "2026-05-14"
+        },
+        {
           "version": "1.0.0",
           "minAppVersion": "2.0.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeConstruction-v1.0.0.zip",
@@ -43,7 +49,7 @@
           "version": "1.0.1",
           "minAppVersion": "3.3.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.1.zip",
-          "publishedAt": "2026-05-13"
+          "publishedAt": "2026-05-14"
         },
         {
           "version": "1.0.0",
@@ -125,9 +131,9 @@
       "versions": [
         {
           "version": "1.0.1",
-          "minAppVersion": "2.0.0",
+          "minAppVersion": "3.3.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.1.zip",
-          "publishedAt": "2026-05-11"
+          "publishedAt": "2026-05-14"
         }
       ]
     },
