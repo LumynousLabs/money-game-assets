@@ -46,6 +46,12 @@
     "businessTypeTaxi": {
       "versions": [
         {
+          "version": "1.0.2",
+          "minAppVersion": "3.3.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.2.zip",
+          "publishedAt": "2026-05-15"
+        },
+        {
           "version": "1.0.1",
           "minAppVersion": "3.3.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.1.zip",

@@ -18,9 +18,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeConstruction-v1.0.1.zip"
     },
     "businessTypeTaxi": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minAppVersion": "3.3.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.1.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.2.zip"
     },
     "businessTypeZoo": {
       "version": "1.0.0",
