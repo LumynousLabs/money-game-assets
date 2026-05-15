@@ -134,6 +134,12 @@
           "minAppVersion": "3.3.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.1.zip",
           "publishedAt": "2026-05-14"
+        },
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.1.zip",
+          "publishedAt": "2026-05-14"
         }
       ]
     },
