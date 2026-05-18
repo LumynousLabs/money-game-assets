@@ -5,12 +5,12 @@
       "severity": "warning",
       "i18n": {
         "en": {
-          "title": "Ads are temporarily unavailable",
-          "body": "Our ad service was suspended unexpectedly, so watch-ad rewards (income boost, free autotap, skip timers, double offline) won't show right now. All other gameplay works normally. I'm working to get it restored — thanks for your patience!"
+          "title": "Ads are not working right now",
+          "body": "Our ad service was suspended unexpectedly, so the ad bonuses (extra income time, free autotap, instant timer skips, double offline earnings) are not working right now. Everything else in the game works normally. I'm working to fix it — thanks for your patience!"
         },
         "ru": {
-          "title": "Реклама временно недоступна",
-          "body": "Наш рекламный сервис был неожиданно приостановлен, поэтому награды за просмотр рекламы (буст дохода, бесплатный автотап, пропуск таймеров, двойной офлайн) сейчас не работают. Всё остальное в игре работает как обычно. Я работаю над восстановлением — спасибо за терпение!"
+          "title": "Реклама сейчас не работает",
+          "body": "Наш рекламный сервис был неожиданно приостановлен, поэтому бонусы за рекламу (дополнительный доход, бесплатный автотап, мгновенные пропуски таймеров, двойной офлайн-доход) сейчас не работают. Всё остальное в игре работает как обычно. Я работаю над исправлением — спасибо за терпение!"
         }
       }
     }
