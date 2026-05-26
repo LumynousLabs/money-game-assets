@@ -74,6 +74,12 @@
     "businessTypeZoo": {
       "versions": [
         {
+          "version": "1.0.2",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.2.zip",
+          "publishedAt": "2026-05-26"
+        },
+        {
           "version": "1.0.1",
           "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.1.zip",
