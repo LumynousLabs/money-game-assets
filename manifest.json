@@ -113,9 +113,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.0.zip"
     },
     "businessTypeFoodTruck": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "minAppVersion": "3.4.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeFoodTruck-v1.0.0.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeFoodTruck-v1.0.2.zip"
     }
   }
 }
