@@ -3,14 +3,14 @@
   "_comment": "minAppVersion gates per-pack updates. Old apps below this version stay on their cached pack version, even if newer ones exist here. Bump only when shipping app code that requires the new asset content.",
   "packs": {
     "businessTypeShop": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.0.zip"
+      "version": "1.0.1",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.1.zip"
     },
     "businessTypeAquarium": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.0.zip"
+      "version": "1.0.1",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.1.zip"
     },
     "businessTypeConstruction": {
       "version": "1.0.1",
@@ -23,9 +23,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.2.zip"
     },
     "businessTypeZoo": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.0.zip"
+      "version": "1.0.1",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.1.zip"
     },
     "businessTypeRental": {
       "version": "1.0.1",
@@ -33,14 +33,14 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.1.zip"
     },
     "businessTypeIdolAgency": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.0.zip"
+      "version": "1.0.1",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.1.zip"
     },
     "businessTypeBiotech": {
-      "version": "1.0.0",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeBiotech-v1.0.0.zip"
+      "version": "1.0.1",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeBiotech-v1.0.1.zip"
     },
     "businessTypeArtStudio": {
       "version": "1.0.0",
@@ -111,6 +111,11 @@
       "version": "1.0.0",
       "minAppVersion": "2.0.0",
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.0.zip"
+    },
+    "businessTypeFoodTruck": {
+      "version": "1.0.0",
+      "minAppVersion": "3.4.0",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeFoodTruck-v1.0.0.zip"
     }
   }
 }

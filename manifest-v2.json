@@ -4,6 +4,12 @@
     "businessTypeShop": {
       "versions": [
         {
+          "version": "1.0.1",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.1.zip",
+          "publishedAt": "2026-05-26"
+        },
+        {
           "version": "1.0.0",
           "minAppVersion": "2.0.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.0.zip",
@@ -15,9 +21,9 @@
       "versions": [
         {
           "version": "1.0.1",
-          "minAppVersion": "3.2.0",
+          "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.1.zip",
-          "publishedAt": "2026-05-11"
+          "publishedAt": "2026-05-26"
         },
         {
           "version": "1.0.0",
@@ -69,9 +75,9 @@
       "versions": [
         {
           "version": "1.0.1",
-          "minAppVersion": "3.2.0",
+          "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.1.zip",
-          "publishedAt": "2026-05-11"
+          "publishedAt": "2026-05-26"
         },
         {
           "version": "1.0.0",
@@ -107,14 +113,20 @@
         },
         {
           "version": "1.0.1",
-          "minAppVersion": "2.0.0",
+          "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.1.zip",
-          "publishedAt": "2026-05-11"
+          "publishedAt": "2026-05-26"
         }
       ]
     },
     "businessTypeBiotech": {
       "versions": [
+        {
+          "version": "1.0.1",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeBiotech-v1.0.1.zip",
+          "publishedAt": "2026-05-26"
+        },
         {
           "version": "1.0.0",
           "minAppVersion": "2.0.0",
@@ -326,6 +338,16 @@
           "minAppVersion": "3.1.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-itemTypeWatches-v1.0.1.zip",
           "publishedAt": "2026-05-11"
+        }
+      ]
+    },
+    "businessTypeFoodTruck": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeFoodTruck-v1.0.0.zip",
+          "publishedAt": "2026-05-26"
         }
       ]
     }
