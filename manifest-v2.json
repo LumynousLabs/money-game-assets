@@ -90,6 +90,12 @@
     "businessTypeRental": {
       "versions": [
         {
+          "version": "1.0.4",
+          "minAppVersion": "3.4.1",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.4.zip",
+          "publishedAt": "2026-06-01"
+        },
+        {
           "version": "1.0.3",
           "minAppVersion": "3.2.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.3.zip",
