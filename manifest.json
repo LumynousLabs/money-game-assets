@@ -28,9 +28,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.2.zip"
     },
     "businessTypeRental": {
-      "version": "1.0.1",
-      "minAppVersion": "2.0.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.1.zip"
+      "version": "1.0.4",
+      "minAppVersion": "3.4.1",
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.4.zip"
     },
     "businessTypeIdolAgency": {
       "version": "1.0.1",
@@ -48,9 +48,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeArtStudio-v1.0.0.zip"
     },
     "businessTypeShared": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minAppVersion": "3.3.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.1.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.2.zip"
     },
     "earningTab": {
       "version": "1.0.0",
