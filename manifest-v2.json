@@ -52,6 +52,12 @@
     "businessTypeTaxi": {
       "versions": [
         {
+          "version": "1.0.3",
+          "minAppVersion": "3.3.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.3.zip",
+          "publishedAt": "2026-06-09"
+        },
+        {
           "version": "1.0.2",
           "minAppVersion": "3.3.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.2.zip",
@@ -89,6 +95,12 @@
     },
     "businessTypeRental": {
       "versions": [
+        {
+          "version": "1.0.5",
+          "minAppVersion": "3.5.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.5.zip",
+          "publishedAt": "2026-06-09"
+        },
         {
           "version": "1.0.4",
           "minAppVersion": "3.4.1",
@@ -144,6 +156,12 @@
     "businessTypeArtStudio": {
       "versions": [
         {
+          "version": "1.0.2",
+          "minAppVersion": "2.0.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeArtStudio-v1.0.2.zip",
+          "publishedAt": "2026-06-09"
+        },
+        {
           "version": "1.0.1",
           "minAppVersion": "2.0.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeArtStudio-v1.0.1.zip",
@@ -153,6 +171,12 @@
     },
     "businessTypeShared": {
       "versions": [
+        {
+          "version": "1.0.3",
+          "minAppVersion": "3.3.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShared-v1.0.3.zip",
+          "publishedAt": "2026-06-09"
+        },
         {
           "version": "1.0.2",
           "minAppVersion": "3.3.0",
