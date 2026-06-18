@@ -108,6 +108,12 @@
     "businessTypeRental": {
       "versions": [
         {
+          "version": "1.0.6",
+          "minAppVersion": "3.6.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.6.zip",
+          "publishedAt": "2026-06-18"
+        },
+        {
           "version": "1.0.5",
           "minAppVersion": "3.5.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeRental-v1.0.5.zip",
@@ -135,6 +141,12 @@
     },
     "businessTypeIdolAgency": {
       "versions": [
+        {
+          "version": "1.0.3",
+          "minAppVersion": "3.6.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeIdolAgency-v1.0.3.zip",
+          "publishedAt": "2026-06-18"
+        },
         {
           "version": "1.0.2",
           "minAppVersion": "2.0.0",
@@ -396,6 +408,16 @@
           "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeFoodTruck-v1.0.2.zip",
           "publishedAt": "2026-05-26"
+        }
+      ]
+    },
+    "businessTypePeople": {
+      "versions": [
+        {
+          "version": "1.0.0",
+          "minAppVersion": "3.6.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypePeople-v1.0.0.zip",
+          "publishedAt": "2026-06-18"
         }
       ]
     }
