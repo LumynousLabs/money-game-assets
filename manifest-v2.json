@@ -20,6 +20,12 @@
     "businessTypeAquarium": {
       "versions": [
         {
+          "version": "1.0.2",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.2.zip",
+          "publishedAt": "2026-06-18"
+        },
+        {
           "version": "1.0.1",
           "minAppVersion": "3.4.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.1.zip",
@@ -79,6 +85,12 @@
     },
     "businessTypeZoo": {
       "versions": [
+        {
+          "version": "1.0.3",
+          "minAppVersion": "3.4.0",
+          "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.3.zip",
+          "publishedAt": "2026-06-18"
+        },
         {
           "version": "1.0.2",
           "minAppVersion": "3.4.0",

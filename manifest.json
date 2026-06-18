@@ -8,9 +8,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeShop-v1.0.1.zip"
     },
     "businessTypeAquarium": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minAppVersion": "3.4.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.1.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeAquarium-v1.0.2.zip"
     },
     "businessTypeConstruction": {
       "version": "1.0.1",
@@ -23,9 +23,9 @@
       "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeTaxi-v1.0.3.zip"
     },
     "businessTypeZoo": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "minAppVersion": "3.4.0",
-      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.2.zip"
+      "url": "https://cdn.lumyno.us/moneygame/zips/pack-businessTypeZoo-v1.0.3.zip"
     },
     "businessTypeRental": {
       "version": "1.0.5",
