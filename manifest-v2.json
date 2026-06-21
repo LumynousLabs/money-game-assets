@@ -261,7 +261,7 @@
       "versions": [
         {
           "version": "1.0.3",
-          "minAppVersion": "2.0.0",
+          "minAppVersion": "3.2.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesResidential-v1.0.3.zip",
           "publishedAt": "2026-06-21"
         },
@@ -283,7 +283,7 @@
       "versions": [
         {
           "version": "1.0.3",
-          "minAppVersion": "2.0.0",
+          "minAppVersion": "3.2.0",
           "url": "https://cdn.lumyno.us/moneygame/zips/pack-propertiesLuxury-v1.0.3.zip",
           "publishedAt": "2026-06-21"
         },
